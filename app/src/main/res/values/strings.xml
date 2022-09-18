@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">Coffi <xliff:g id="name" example= "Amy">%s</xliff:g></string>
+    <string name="nice" translatable="false">\" \n add the chocolate \"</string>
+
+    <!--    <string name="cream_ordered_or_not">cream</string>-->
+
+</resources>
